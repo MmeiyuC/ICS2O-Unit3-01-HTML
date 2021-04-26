@@ -1,0 +1,10 @@
+.Hello {
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+  font-size: 150%;
+}
+
+#Goodbye {
+  font-family: 'Courier New', Courier, monospace;
+  color: aquamarine;
+}
